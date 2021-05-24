@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\Rohitashwa\\anaconda3\\envs\\azure-ml\\python.exe"
+    "python.pythonPath": "C:\\Users\\Rohitashwa\\anaconda3\\envs\\azure-ml\\python.exe",
+    "azureML.defaultWorkspaceId": "/subscriptions/9a515d07-5aa5-4adc-859b-80f12821c1d4/resourceGroups/aml-resources/providers/Microsoft.MachineLearningServices/workspaces/aml-workspace"
 }
