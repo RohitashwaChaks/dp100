@@ -5,7 +5,8 @@
 This repository contains the code for the ***DP-100: Designing and Implementing a Data Science Solution on Azure*** examination offered by Microsoft for its
 [Microsoft Certified: Azure Data Scientist Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist/) Role.
 
-The code in this repository is not my own. These notebooks have been forked and modified from MSLearn's [Azure Machine Learning Exercises](https://microsoftlearning.github.io/mslearn-dp100/) which is the official set of notebooks reffered to through out their [course material.](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100)
+The code in this repository is not my own.
+These notebooks have been forked and modified from MSLearn's [Azure Machine Learning Exercises](https://microsoftlearning.github.io/mslearn-dp100/) which is the official set of notebooks reffered to throughout their [course material.](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100)
 
 ### Conda Environment Requirements
 
